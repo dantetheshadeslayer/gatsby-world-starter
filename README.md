@@ -17,6 +17,7 @@ Included:
 
 Notes:
 * Google Analytics needs to be configured
+* You need to add images folder manually at src/images before running 'gatsby develop'
 * I genuinely don't know how to lazy load gatsby images, if you do, please teach me.
 * Montserrat and Open Sans are used as default, import preferred fonts in gatsby-config.js and call them from global.scss
 * Starter template courtesy of aerocreate.com
