@@ -1,0 +1,14 @@
+$font-head: montserrat, sans-serif;
+$font-body: opensans, sans-serif;
+
+$primary-color: #333333;
+
+h1 {
+  font: 100% $font-head;
+  color: $primary-color;
+}
+
+p {
+  font: 100% $font-body;
+  color: $primary-color;
+}
