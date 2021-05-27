@@ -1,6 +1,6 @@
 # gatsby-world-starter
 
-An all-Inclusive barebones starter for Gatsby.
+An all-Inclusive barebones starter for Gatsby. A live version can be found here https://gatsby-world-starter.vercel.app/
 
 Included:
 
@@ -21,4 +21,5 @@ Notes:
 
 - Google Analytics needs to be configured
 - Montserrat and Open Sans are used as default, import preferred fonts in gatsby-config.js and call them from global.scss
-- Starter template courtesy of aerocreate.com
+- Email hello@aerocreate for any feature requests
+- Starter template made with love by aerocreate.com
