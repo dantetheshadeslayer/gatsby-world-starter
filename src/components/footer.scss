@@ -1,0 +1,23 @@
+//Global Styles
+@import "./../styles/style-guides";
+
+footer {
+  height: 10%;
+  width: 100%;
+
+  .inner-footer {
+    display: flex;
+    justify-content: flex-end;
+    p {
+      font: 120% $font-body;
+      color: $secondary-color;
+      line-height: 1.4;
+    }
+    a {
+      font: $font-body;
+      color: $primary-color;
+      line-height: 1.4;
+      text-decoration: none;
+    }
+  }
+}

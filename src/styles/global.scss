@@ -1,8 +1,4 @@
-$font-head: montserrat, sans-serif;
-$font-body: opensans, sans-serif;
-
-$primary-color: #076aff;
-$primary-color: #333333;
+@import "style-guides";
 
 h1 {
   font: 200% $font-head;

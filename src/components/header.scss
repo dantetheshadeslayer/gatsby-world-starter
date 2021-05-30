@@ -1,0 +1,30 @@
+//Global Styles
+@import "./../styles/style-guides";
+
+header {
+  height: 80px;
+  width: 100%;
+  .inner-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 80px;
+    .logo {
+      a {
+        text-decoration: none;
+        font-weight: bold;
+        padding-left: 1rem;
+        padding-right: 1rem;
+      }
+    }
+    .navigation {
+      nav {
+        a {
+          text-decoration: none;
+          padding-left: 1rem;
+          padding-right: 1rem;
+        }
+      }
+    }
+  }
+}
