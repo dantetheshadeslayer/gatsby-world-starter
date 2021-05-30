@@ -20,6 +20,6 @@ Included:
 Notes:
 
 - Google Analytics needs to be configured
-- Montserrat and Open Sans are used as default, import preferred fonts in gatsby-config.js and call them from global.scss
+- Montserrat and Open Sans are used as default, import preferred fonts to \_style-guides.scss
 - Email hello@aerocreate for any feature requests
 - Starter template made with love by aerocreate.com

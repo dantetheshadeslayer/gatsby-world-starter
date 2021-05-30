@@ -1,11 +1,13 @@
+//Importing Style Guides, to modify go-to _style-guides.scss
 @import "style-guides";
 
+//Base CSS starts here
 h1 {
   font: 200% $font-head;
-  color: $primary-color;
+  color: $secondary-color;
 }
 
 p {
   font: 100% $font-body;
-  color: $primary-color;
+  color: $secondary-color;
 }

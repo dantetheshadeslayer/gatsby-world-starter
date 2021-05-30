@@ -1,10 +1,11 @@
 import * as React from "react";
-import Header from "./header.js";
-import Footer from "./footer.js";
+import Header from "./header/header.js";
+import Footer from "./footer/footer.js";
+import layoutStyle from "./layout.module.scss";
 
 export default function Layout({ children }) {
   return (
-    <div class="container container-fluid">
+    <div className={layoutStyle.container}>
       <Header />
       <div>{children}</div>
       <Footer />

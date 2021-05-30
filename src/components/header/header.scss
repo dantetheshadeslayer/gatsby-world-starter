@@ -1,5 +1,5 @@
-//Global Styles
-@import "./../styles/style-guides";
+//Importing Style Guides, to modify go-to _style-guides.scss
+@import "style-guides";
 
 header {
   height: 80px;
@@ -11,8 +11,9 @@ header {
     height: 80px;
     .logo {
       a {
+        font: $font-head;
         text-decoration: none;
-        font-weight: bold;
+        font-weight: 600;
         padding-left: 1rem;
         padding-right: 1rem;
       }
@@ -20,6 +21,7 @@ header {
     .navigation {
       nav {
         a {
+          font: $font-head;
           text-decoration: none;
           padding-left: 1rem;
           padding-right: 1rem;
