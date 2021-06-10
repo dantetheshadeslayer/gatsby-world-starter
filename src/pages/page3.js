@@ -3,8 +3,8 @@ import Layout from "../components/layout";
 
 const Page3 = () => (
   <Layout>
-    <h1>Hello world!</h1>
-    <p>This is your second page!</p>
+    <h1>Hello Mars!</h1>
+    <p>This is your third page!</p>
   </Layout>
 );
 
